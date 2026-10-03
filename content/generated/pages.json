@@ -1,0 +1,1192 @@
+[
+  {
+    "enabled": true,
+    "slug": "scream-and-run-grinch-update",
+    "pageType": "updates",
+    "navLabel": "Grinch Update",
+    "title": "Scream And Run Grinch Update – New Map & Latest Info",
+    "description": "Scream And Run Grinch update guide with confirmed new-map details, official event information, Grinch facts, and the latest player updates.",
+    "keywords": [
+      "scream and run grinch update",
+      "scream and run grinch",
+      "scream and run new map",
+      "scream and run latest update",
+      "scream and run whoville"
+    ],
+    "primaryKeyword": "scream and run grinch update",
+    "secondaryKeywords": [
+      "scream and run grinch",
+      "scream and run new map",
+      "scream and run latest update",
+      "scream and run whoville"
+    ],
+    "searchIntent": "Players want the current Scream And Run Grinch update: the official event, whether a new map is live, and what is confirmed about the Grinch.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": null,
+    "wordCountTarget": 1050,
+    "sourceNotes": [
+      "Roblox games API on 2026-09-27: name Scream And Run [GRINCH UPD], updated 2026-09-27T03:48:10Z, description still the school text.",
+      "Virtual event 1201915609542165076 title The Grinch And New Map, start 2026-09-25T18:00:45Z, end 2026-09-30T18:00:45Z.",
+      "Places WhoVille - Escape, WhoVille - Hide And Seek, WhoVille - FreeRoam. Badges You Escaped WhoVille and You Escaped WhoVille With No Power created 2026-09-23.",
+      "Game pass 2x Chance To Play As The Grinch created 2026-09-23. Throwable Snowball pass created 2026-09-22.",
+      "A later public event is titled Verity And New Map, October 3-9 2026. No objective was published on that event."
+    ],
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "September 2026",
+      "heading": "Scream And Run Grinch Update",
+      "lead": "The Scream And Run Grinch update is live on Roblox. The official experience title reads Scream And Run [GRINCH UPD], and the public event on that experience is The Grinch And New Map."
+    },
+    "sections": [
+      {
+        "id": "what-the-update-is",
+        "heading": "What the Scream And Run Grinch Update Is",
+        "paragraphs": [
+          "The Scream And Run Grinch update is the current public build of the Roblox experience, not a separate game. On September 27, 2026 the official Roblox page still used the name Scream And Run [GRINCH UPD], and the experience had been updated the same morning. Scream And Run Studios remains the creator. The place players join is still the original experience at the official Roblox URL.",
+          "The written description under that title has not been replaced. It still says you are trapped in a school after dark, the Cat in the Hat is hunting you, and hidden keys in classrooms and backpacks open the exit. It also still lists Hide And Seek, Free Roam, and Escape, plus the Shift, C, and F controls. Treat that paragraph as the school manual. Treat the title, the event, and the new place names as the update.",
+          "This guide reflects the current September 2026 build and may change after future updates. If the Roblox page title no longer shows the Grinch tag, check the event list before you assume the map rotation is the same."
+        ]
+      },
+      {
+        "id": "official-event",
+        "heading": "Official Grinch Event Details",
+        "paragraphs": [
+          "Roblox lists a public event on this universe titled The Grinch And New Map. The event id is 1201915609542165076. It starts September 25, 2026 and ends September 30, 2026. The host is Scream And Run Studios, the category is new content, and the public subtitle is New Map And Monster. The description field itself is empty.",
+          "The event was created on September 18, 2026, the same day the Pizzeria escape badges appeared, and it was scheduled for the following week. Open the official experience from the public Roblox page. A private server is not required.",
+          "A second public event is already on the calendar after this one. It is titled Verity And New Map and is scheduled for October 3 through October 9, 2026. That listing also has an empty description, so it is a date and a name, not a walkthrough. Finish the Grinch window first."
+        ]
+      },
+      {
+        "id": "new-map",
+        "heading": "Is There a New Map?",
+        "paragraphs": [
+          "Yes. The universe place list includes WhoVille - Escape, WhoVille - Hide And Seek, and WhoVille - FreeRoam. Those three names match the mode pattern used by the older maps: an escape place, a hide-and-seek place, and a free-roam place. WhoVille is spelled that way in the place names, with the capital V.",
+          "The badge catalog agrees. You Escaped WhoVille and You Escaped WhoVille With No Power were both created on September 23, 2026, two days before the Grinch event window opened. Every earlier map also has a normal escape badge and a no-power escape badge. WhoVille follows that pattern, which is how you can tell it is a finished escape route rather than an unused test place.",
+          "Older place names are still in the list. School, Mines, Play Place, and Pizzeria places were not removed when WhoVille was added. A few extra place names sit in the same experience and are not player maps. If your server browser shows WhoVille - Escape, that is the new-map escape round."
+        ]
+      },
+      {
+        "id": "grinch-facts",
+        "heading": "What Is Confirmed About the Grinch",
+        "paragraphs": [
+          "The Grinch is a named role in the current build. Scream And Run Studios sells a pass called 2x Chance To Play As The Grinch. That pass was created on September 23, 2026, the same day as the WhoVille badges, and it was updated on September 25, the day the event started. The same store already had passes to play as the Cat in the Hat, Thomas, Ronald, and Bon Bon. The Grinch pass is the new name in that row.",
+          "A Throwable Snowball pass was created on September 22, 2026. Its description says the snowball can freeze a monster or a player. It is a paid item, not a required step on the escape. If you do not own it, you can still join WhoVille and play the objective the round gives you.",
+          "The event title pairs the Grinch with a new map, and WhoVille is the new map name from that week. What the round asks you to pick up can change while the event is running, so the reliable check is the objective line in the corner of your screen, not a fixed shopping list copied from an older day."
+        ]
+      },
+      {
+        "id": "what-changed",
+        "heading": "What Changed for Players",
+        "paragraphs": [
+          "Three things are different when you open the game during this event. The page title wears the Grinch tag. WhoVille can be selected alongside the older maps. And the badge case has two new escape awards, including a no-power version, which means a clear exists for that map in the same way it does for the school and the Pizzeria.",
+          "What did not change is the control row and the school description. Shift still runs, C still crouches or crawls, Shift+C still slides, and F still toggles the flashlight. If you load School - Escape Mode, you are still on the backpack and key door. The update did not turn every server into WhoVille.",
+          "No Power is still its own badge on WhoVille, the same way it is on the older maps. The Infinite Lives pass mentions Escape and No Power together, so both clears exist. Compare the full badge title in your inventory if you need to see which one you earned."
+        ]
+      },
+      {
+        "id": "fits-current-maps",
+        "heading": "How This Update Fits the Current Maps",
+        "paragraphs": [
+          "The Grinch update sits on top of a month of map releases, and the badge dates are the clean timeline. School escape badges were created on August 28, 2026. You Escaped Mines followed on September 3. Play Place badges followed on September 11. The Pizzeria badges, spelled You Escaped Pizzera, followed on September 18. WhoVille followed on September 23. Each step added a map. None of them deleted the previous exit.",
+          "That is why a key guide and a Grinch guide can both be true on the same day. Players still search backpacks in the school. Players in the Mines still need the furnace route. WhoVille is the map attached to this event, and it should be read as its own objective. If a friend tells you the new map uses five school keys, check the place name before you believe them.",
+          "The maps guide puts the older four next to WhoVille. The home page keeps the control list and a short version of every route."
+        ],
+        "links": [
+          {
+            "label": "Scream And Run maps",
+            "slug": "scream-and-run-maps",
+            "description": "School, Mines, Play Place, Pizzeria, and WhoVille side by side."
+          },
+          {
+            "label": "Scream And Run wiki home",
+            "slug": "",
+            "description": "Controls, key locations, and the full guide index."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is the Scream And Run Grinch update out?",
+        "answer": "Yes. The official experience title is Scream And Run [GRINCH UPD], and the public event The Grinch And New Map runs September 25 through September 30, 2026."
+      },
+      {
+        "question": "What is the new Scream And Run map?",
+        "answer": "WhoVille. The universe lists WhoVille Escape, Hide And Seek, and Free Roam places, and Roblox created You Escaped WhoVille on September 23, 2026."
+      },
+      {
+        "question": "Is the Grinch in Scream And Run?",
+        "answer": "The studio sells a pass named 2x Chance To Play As The Grinch, created the same day as the WhoVille badges. The live event is also titled The Grinch And New Map."
+      },
+      {
+        "question": "Did the school key hunt get removed?",
+        "answer": "No. The official description still explains the school, the Cat in the Hat, and the hidden keys. School places and the original escape badges are still on the experience."
+      },
+      {
+        "question": "What comes after the Grinch event?",
+        "answer": "Roblox already lists a later public event titled Verity And New Map for October 3 through October 9, 2026. That listing does not describe a route yet."
+      }
+    ],
+    "relatedSlugs": [
+      "scream-and-run-maps",
+      "how-to-escape-scream-and-run"
+    ],
+    "lastReviewed": "2026-09-27"
+  },
+  {
+    "enabled": true,
+    "slug": "scream-and-run-key-locations",
+    "pageType": "guide",
+    "navLabel": "Key Locations",
+    "title": "Scream And Run Key Locations – How to Find All Keys",
+    "description": "Find Scream And Run key locations, learn how the School key search works, where to check backpacks, and how to avoid wasting time.",
+    "keywords": [
+      "scream and run key locations",
+      "scream and run roblox keys",
+      "scream and run keys",
+      "where are the keys in scream and run"
+    ],
+    "primaryKeyword": "scream and run key locations",
+    "secondaryKeywords": [
+      "scream and run roblox keys",
+      "scream and run keys",
+      "where are the keys in scream and run"
+    ],
+    "searchIntent": "Players in the school want to know where keys are, how to search backpacks, and what to do after they find one.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": null,
+    "wordCountTarget": 1100,
+    "sourceNotes": [
+      "Official description: classrooms, backpacks, hidden keys, exit, Cat in the Hat.",
+      "School escape badges created 2026-08-28. Five-lock door is the common account across several recorded-run writeups; one run said six, so the guide tells players to count the locks.",
+      "Mines, Pizzeria, and Play Place objectives are covered on their own pages and are not key routes, except Play Place which adds a gate."
+    ],
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "School search",
+      "heading": "Scream And Run Key Locations",
+      "lead": "Scream And Run key locations are a school problem. You search abandoned classrooms and backpacks for hidden keys, then you spend each key on the exit while the Cat in the Hat is hunting you."
+    },
+    "sections": [
+      {
+        "id": "how-the-search-works",
+        "heading": "How the Key Search Works",
+        "paragraphs": [
+          "The official description is the whole rule in one sentence: search abandoned classrooms and backpacks for the hidden keys you need to unlock the exit. Escape mode is the mode that cares about those keys. Hide And Seek and Free Roam are different places, so a free-roam wander will not teach you the door.",
+          "The School escape route uses colored locks. The exact count can change between updates, so look at the door in your server and count the locks that are still closed. A key you cannot match to a closed lock is not progress yet.",
+          "You do not need the full set in your hands before the first trip. Open a lock when you have its color, then go back for the next one. In a group, the door is shared. If someone else is holding the color you still need, the fastest call is the color name and a request to bring it, not a second search of the same hallway."
+        ]
+      },
+      {
+        "id": "where-to-look",
+        "heading": "Where to Look for Keys",
+        "paragraphs": [
+          "Start with classrooms. That is the location the game page names, and the backpacks are the containers. Do not expect a marked pedestal or a glowing trail. The search is opening bags until a key is in one of them.",
+          "The search also covers the larger shared rooms between classrooms, including a library, a cafeteria, and bathrooms. Treat those as part of the same sweep, not as secret spots. Key spawns are not fixed, so use a room-by-room search route instead of relying on one desk or one coordinate.",
+          "Find the exit door early, even before you have a key. You want to know where the locks are and which colors are still shut. A round where you discover the door at the end is a round where you have been carrying keys farther than you needed to."
+        ]
+      },
+      {
+        "id": "backpacks",
+        "heading": "How to Search Backpacks Efficiently",
+        "paragraphs": [
+          "Most backpacks are empty. That is the search, not a sign that you are in the wrong room. Open the bag, read the result, and move. The players who lose the round are usually the ones who reopen a wing because it felt familiar.",
+          "An opened backpack usually does not offer a second search. Plan as if a cleared bag stays cleared. If a later round puts items back, you will notice the prompt. Until you see that prompt, new rooms beat old rooms.",
+          "Keep a simple picture of the building in your head. One side, then the other, then the rooms you skipped because the hunter was standing in them. A backpack you ran past is a different problem from a backpack you opened. Go back only for the ones you never touched."
+        ]
+      },
+      {
+        "id": "room-by-room",
+        "heading": "A Faster Room-by-Room Search Strategy",
+        "steps": [
+          {
+            "heading": "Mark the door",
+            "description": "Walk to the exit first and read every lock that is still closed. That list is your shopping list."
+          },
+          {
+            "heading": "Clear one wing",
+            "description": "Open every backpack in the classrooms on one side before you cross the building. Empty bags mean the wing is done."
+          },
+          {
+            "heading": "Spend the key",
+            "description": "When you find a color, take it to the matching lock if the hall is clear enough to stand still for the interaction."
+          },
+          {
+            "heading": "Sweep what you skipped",
+            "description": "After the first loop, the only bags worth opening are the ones you ran past. Then check the shared rooms you have not entered."
+          }
+        ],
+        "paragraphs": [
+          "Call a color only when you are holding that key, and keep it short. 'I have green' is useful. 'I searched something' is not. If two players open the same room, you have halved the map for no gain.",
+          "Slide with Shift+C when you cross the long halls between the door and the next classroom. Crouch with C where the furniture is low. The flashlight on F is for reading a bag in a dark room, not for leaving on while you stand in a doorway."
+        ]
+      },
+      {
+        "id": "after-a-key",
+        "heading": "What to Do After You Find a Key",
+        "paragraphs": [
+          "Stop searching. A key in your inventory does nothing until it is in the lock. Turn toward the exit, check the hall, and use the key on the matching lock. Then look at the door again so you know the new list.",
+          "The interaction holds you in place. Do it when you have a second, not when you can already hear the Cat in the Hat in the same corridor. If the hall is busy, step into a side room, let the hunter pass, and then commit to the door. Dying on the interaction costs you the walk.",
+          "If you die while holding a key, do not assume the round is over. Go back to the search and listen for the color your team still needs. The door remembers locks that were already opened. Your job is the locks that are still shut."
+        ]
+      },
+      {
+        "id": "mistakes",
+        "heading": "Key Mistakes That Waste Time",
+        "bullets": [
+          "Reopening backpacks in a room you already cleared.",
+          "Carrying three keys because you want one dramatic trip to the door.",
+          "Searching for a color whose lock is already open.",
+          "Standing at the door to insert a key while the hunter is in the same hall.",
+          "Using the school route after you have loaded the Mines or the Pizzeria."
+        ],
+        "paragraphs": [
+          "The last one is the expensive mistake. Scream And Run key locations are famous because the school launched that way. Friends will tell you every map is five keys. Check the place name before you spend ten minutes on backpacks that are not the objective."
+        ]
+      },
+      {
+        "id": "other-maps",
+        "heading": "Keys on Other Maps: What Changes",
+        "paragraphs": [
+          "The Mines replaces keys with a pickaxe, coal, a furnace, and explosives. If you are underground and hunting backpacks, you are playing the wrong route. The Pizzeria replaces them with fuses that go into a Power Box, plus a clock you survive until 6 AM.",
+          "Play Place keeps colored keys and adds a step. A screwdriver and a gate panel can stand between you and the locks. You can be holding every color and still be unable to reach the door. Solve the gate, then go back to the key list.",
+          "WhoVille is the map attached to the current Grinch update. It has its own escape badge and its own places. It is not the school door with a new coat of paint. When the round is WhoVille, follow the objective on screen and leave the backpack route on the school page."
+        ],
+        "links": [
+          {
+            "label": "How to escape",
+            "slug": "how-to-escape-scream-and-run",
+            "description": "The branch for each map after you leave the school."
+          },
+          {
+            "label": "Scream And Run maps",
+            "slug": "scream-and-run-maps",
+            "description": "See which maps still use keys and which do not."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Where are the keys in Scream And Run?",
+        "answer": "In the school they are hidden in backpacks, and the official description tells you to search abandoned classrooms. Look at the exit locks first so you know which colors are still missing."
+      },
+      {
+        "question": "How many keys do you need?",
+        "answer": "The School door uses colored locks, and the exact count can change. Count the closed locks on the door in your server and search for those colors."
+      },
+      {
+        "question": "Do Mines and Pizzeria use the same keys?",
+        "answer": "No. The Mines uses a pickaxe, coal, a furnace, and explosives. The Pizzeria uses fuses and a Power Box. Play Place still uses colored keys after a screwdriver opens the gate."
+      },
+      {
+        "question": "Can teammates use my key?",
+        "answer": "Yes. Locks stay open for the round, and another player can insert a color you found. Call the color and take it to the door."
+      },
+      {
+        "question": "Should I reopen empty backpacks?",
+        "answer": "Not on the first plan. Treat an opened bag as spent. Move into rooms you have not checked, and only return to bags you never opened."
+      }
+    ],
+    "relatedSlugs": [
+      "how-to-escape-scream-and-run",
+      "scream-and-run-maps",
+      "scream-and-run-play-place"
+    ],
+    "lastReviewed": "2026-09-27"
+  },
+  {
+    "enabled": true,
+    "slug": "scream-and-run-maps",
+    "pageType": "list",
+    "navLabel": "Maps",
+    "title": "Scream And Run Maps – School, Mines, Play Place & More",
+    "description": "Compare Scream And Run maps, their escape objectives and key mechanics, including School, Mines, Play Place, Pizzeria and the latest update.",
+    "keywords": [
+      "scream and run maps",
+      "scream and run map",
+      "scream and run school map",
+      "scream and run mines map",
+      "scream and run play place",
+      "scream and run pizzeria",
+      "scream and run new map"
+    ],
+    "primaryKeyword": "scream and run maps",
+    "secondaryKeywords": [
+      "scream and run map",
+      "scream and run school map",
+      "scream and run mines map",
+      "scream and run play place",
+      "scream and run pizzeria",
+      "scream and run new map"
+    ],
+    "searchIntent": "Players want to compare Scream And Run maps and learn which escape objective belongs to School, Mines, Play Place, Pizzeria, and the newest map.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": null,
+    "wordCountTarget": 1250,
+    "sourceNotes": [
+      "Place list and badge created dates from Roblox on 2026-09-27.",
+      "Objectives cross-checked across independent player guides and cited gameplay recordings. Coal quantity and exact key counts that conflict were omitted."
+    ],
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Map index",
+      "heading": "Scream And Run Maps",
+      "lead": "Scream And Run maps do not share one exit. The school wants keys, the Mines wants a furnace, Play Place adds a gate, the Pizzeria wants fuses, and WhoVille is the new map in the Grinch update."
+    },
+    "sections": [
+      {
+        "id": "at-a-glance",
+        "heading": "Scream And Run Maps at a Glance",
+        "intro": "Use this table to name the round you joined, then open the guide for that objective. Badge dates are the day Roblox created the escape award, which shows the map already had a clear.",
+        "paragraphs": [
+          "Hide And Seek and Free Roam places exist beside many of these escape places. They are modes, not extra maps. If the place name ends in Escape, you are on the route this page is about. A few other names sit in the universe and are not escape guides."
+        ],
+        "table": {
+          "caption": "Scream And Run map comparison",
+          "columns": [
+            "Map",
+            "Main objective",
+            "Main item or mechanic",
+            "Escape badge created"
+          ],
+          "rows": [
+            [
+              "School",
+              "Unlock the exit",
+              "Keys in backpacks",
+              "August 28, 2026"
+            ],
+            [
+              "Mines",
+              "Open the blocked exit",
+              "Pickaxe, coal, furnace, explosives",
+              "September 3, 2026"
+            ],
+            [
+              "Play Place",
+              "Open the gate, then the locks",
+              "Screwdriver and colored keys",
+              "September 11, 2026"
+            ],
+            [
+              "Pizzeria",
+              "Insert fuses and last until 6 AM",
+              "Power Box and doors",
+              "September 18, 2026"
+            ],
+            [
+              "WhoVille",
+              "Current Grinch-update objective",
+              "New map and Grinch role",
+              "September 23, 2026"
+            ]
+          ]
+        },
+        "links": [
+          {
+            "label": "Mines guide",
+            "slug": "scream-and-run-mines",
+            "description": "The route that is not a key hunt."
+          },
+          {
+            "label": "Play Place guide",
+            "slug": "scream-and-run-play-place",
+            "description": "Screwdriver, panel, and exit keys."
+          },
+          {
+            "label": "Pizzeria guide",
+            "slug": "scream-and-run-pizzeria",
+            "description": "Three fuses, the Power Box, and 6 AM."
+          },
+          {
+            "label": "Grinch update",
+            "slug": "scream-and-run-grinch-update",
+            "description": "WhoVille, the event, and the live title."
+          }
+        ]
+      },
+      {
+        "id": "school",
+        "heading": "School",
+        "paragraphs": [
+          "The school is the map in the official description. You are inside after dark. The Cat in the Hat is the hunter named on that page, and the studio sells a pass to play as the Cat in the Hat. The objective is the hidden keys in abandoned classrooms and backpacks.",
+          "The places include School - Escape Mode, School - Hide And Seek, and School - Free Roam Mode. The escape badges are Escape The Cat In The Hat and Escape The Cat In The Hat With No Power On, both created on August 28, 2026. The escape route is a colored-key door. Count the locks in your server, match colors, and do not save every key for one final walk.",
+          "If you only learn one building, learn this one. The later maps change the items and keep the pressure. The key locations guide is the room-by-room version."
+        ],
+        "links": [
+          {
+            "label": "Key locations",
+            "slug": "scream-and-run-key-locations",
+            "description": "Backpack order and what to do with a key."
+          }
+        ]
+      },
+      {
+        "id": "mines",
+        "heading": "Mines",
+        "paragraphs": [
+          "The Mines is the first map that throws the key plan away. Places include Mines - Escape, Mines - Hide And Seek, and a place simply named Mines. You Escaped Mines was created on September 3, 2026, and You Escaped Mines With No Power followed on September 4.",
+          "The chain is a pickaxe, coal fed into the furnace until the next area opens, then explosives and a lighter on the blocked exit. Do not memorize a fixed coal total. Follow the prompt in your current round. Players meet a train hunter, and the studio sells a pass to play as Thomas.",
+          "Walking the Mines with a school key list is how you lose the round without ever reaching the furnace. Open the Mines guide before you queue if this is your first time underground."
+        ]
+      },
+      {
+        "id": "play-place",
+        "heading": "Play Place",
+        "paragraphs": [
+          "Play Place is the indoor playground map. The badges You Escaped Play Place and You Escaped Play Place With No Power were created on September 11, 2026. Place names include Play Place - Hide And Seek and Play Place FreeRoam. An escape place in the same universe is titled Playpen - Escape, which is the name to recognize if the server list does not say Play Place.",
+          "The route keeps colored keys and adds a screwdriver. You use the screwdriver on the gate panel so you can reach the locks. The lights can go out when that panel is used, so know that F toggles the flashlight before you commit. Players also call this map Playground; the badge name is Play Place. The studio sells a pass to play as Ronald.",
+          "Do not hunt a permanent screwdriver spawn. Search the round you are in, use the tool on the panel when you have it, and then finish the locks that are still closed."
+        ]
+      },
+      {
+        "id": "pizzeria",
+        "heading": "Pizzeria",
+        "paragraphs": [
+          "The Pizzeria is a separate building with its own exit. Places include Pizzeria - Escape, Pizzeria - Hide And Seek, and Pizzeria - Free Roam. The escape badge was created on September 18, 2026 and is spelled You Escaped Pizzera, missing the second i. There is a matching no-power badge with the same spelling.",
+          "Current gameplay shows two jobs at once: find three fuses and insert them at the Power Box, and survive until 6 AM. Reaching 6 AM does not insert the fuses for you. The official Remote Pass says it lets you open and slam shut the doors on this map. The studio also sells a pass to play as Bon Bon. Players report more than one animatronic in the building.",
+          "If you arrived from a key guide, leave the backpacks behind. The Pizzeria guide covers the fuse order, the clock, and the doors."
+        ]
+      },
+      {
+        "id": "latest-map",
+        "heading": "Latest Map and the Grinch Update",
+        "paragraphs": [
+          "WhoVille is the newest named map. Its escape, hide-and-seek, and free-roam places are in the public list, and both WhoVille escape badges were created on September 23, 2026. The official event The Grinch And New Map runs September 25 through September 30, 2026, and the experience title is Scream And Run [GRINCH UPD]. A pass to play as the Grinch was created the same day as the badges.",
+          "The school description on the Roblox page was not rewritten when WhoVille arrived. You can still be placed in the school. Read the place name. If it says WhoVille, you are on the update map, and the objective in the corner of the screen is the one that matters.",
+          "A later event titled Verity And New Map is already scheduled for October 3 through October 9, 2026. It does not replace WhoVille during the Grinch window."
+        ]
+      },
+      {
+        "id": "which-map-first",
+        "heading": "Which Map Should You Learn First?",
+        "paragraphs": [
+          "Learn the school if you have never escaped. The official page explains it, the key search is the skill every friend will mention, and the building is the one most early rounds use. Find the exit door in Free Roam if you want the layout without the timer of a chase, then take that memory into Escape mode.",
+          "Learn the Mines second if you keep loading it by accident and searching for keys. One furnace trip will fix that confusion faster than another school guide. Learn Play Place when a gate blocks locks you thought you understood. Learn the Pizzeria when the screen says fuses. Learn WhoVille while the Grinch event is the reason people are searching today.",
+          "Whichever map you pick, the loss is usually navigation. Players die because they do not know which item the exit wants, then they sprint the wrong wing. Name the map, name the item, then move."
+        ],
+        "links": [
+          {
+            "label": "How to escape",
+            "slug": "how-to-escape-scream-and-run",
+            "description": "A single workflow that sends you to the right objective."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many Scream And Run maps are there?",
+        "answer": "The escape maps are the School, the Mines, Play Place, the Pizzeria, and WhoVille. Other place names exist in the experience and are not covered as maps here."
+      },
+      {
+        "question": "What is the newest Scream And Run map?",
+        "answer": "WhoVille. Its escape badges were created on September 23, 2026, and the live event is The Grinch And New Map from September 25 through September 30."
+      },
+      {
+        "question": "Which Scream And Run map uses keys?",
+        "answer": "The school is the key hunt described on the official page. Play Place also uses colored keys after a screwdriver opens the gate. The Mines and the Pizzeria do not."
+      },
+      {
+        "question": "Are Hide And Seek and Escape the same map?",
+        "answer": "They are different places for the same building. Escape is the mode with the exit objective. The place name tells you which one you joined."
+      },
+      {
+        "question": "Which map should a new player learn?",
+        "answer": "The school. It is the map the official description explains, and the later maps change its rules instead of repeating them."
+      }
+    ],
+    "relatedSlugs": [
+      "scream-and-run-mines",
+      "scream-and-run-play-place",
+      "scream-and-run-pizzeria",
+      "scream-and-run-grinch-update",
+      "scream-and-run-key-locations"
+    ],
+    "lastReviewed": "2026-09-27"
+  },
+  {
+    "enabled": true,
+    "slug": "how-to-escape-scream-and-run",
+    "pageType": "guide",
+    "navLabel": "Escape Guide",
+    "title": "How to Escape in Scream And Run – Step-by-Step Guide",
+    "description": "Learn how to escape in Scream And Run with a clear search workflow, map-specific objectives, movement controls, exit steps and survival tips.",
+    "keywords": [
+      "how to escape scream and run",
+      "how to escape in scream and run",
+      "scream and run escape guide",
+      "scream and run escape"
+    ],
+    "primaryKeyword": "how to escape scream and run",
+    "secondaryKeywords": [
+      "how to escape in scream and run",
+      "scream and run escape guide",
+      "scream and run escape"
+    ],
+    "searchIntent": "Players want a step-by-step way to escape, with the objective changing by map and the controls that matter during a chase.",
+    "priority": "P1",
+    "navVisible": true,
+    "parentSlug": null,
+    "wordCountTarget": 1100,
+    "sourceNotes": [
+      "Official modes and controls from the Roblox description.",
+      "Map branches point at the dedicated guides instead of repeating their full routes."
+    ],
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Escape",
+      "heading": "How to Escape in Scream And Run",
+      "lead": "How to escape Scream And Run starts with the map name. Escape mode has a finish, and the school, the Mines, Play Place, and the Pizzeria do not finish the same way."
+    },
+    "sections": [
+      {
+        "id": "identify-the-map",
+        "heading": "First: Identify Which Map You Are On",
+        "intro": "How to escape Scream And Run on a fresh server is the same habit. The place name is the strategy. Read it before you open a single container.",
+        "steps": [
+          {
+            "heading": "Read the place",
+            "description": "School, Mines, Play Place or Playpen, Pizzeria, and WhoVille are different objectives. Escape in the name means you are on a win condition."
+          },
+          {
+            "heading": "Read the objective",
+            "description": "The corner text names the items. If it says keys, search bags. If it says fuses or coal, do not search for padlocks."
+          },
+          {
+            "heading": "Find the exit early",
+            "description": "Know where progress gets spent: a lock, a furnace, a gate panel, or a Power Box."
+          },
+          {
+            "heading": "Search new ground",
+            "description": "Clear rooms you have not opened. Reopening a finished wing is how the clock wins."
+          },
+          {
+            "heading": "Spend the item",
+            "description": "When you are holding what the exit wants, go use it if the hunter is not already on you."
+          }
+        ],
+        "paragraphs": [
+          "Hide And Seek and Free Roam are real modes, listed on the official page and split into their own places. They are useful for learning a building. They are not the escape. If you want the badge, the place name should be the escape version of that map.",
+          "WhoVille is the new map during the Grinch update. If that is the place you joined, the school steps below are the wrong chapter. Open the update guide and follow the objective the round prints."
+        ],
+        "links": [
+          {
+            "label": "Scream And Run maps",
+            "slug": "scream-and-run-maps",
+            "description": "A comparison if you are not sure which place you joined."
+          }
+        ]
+      },
+      {
+        "id": "escape-school",
+        "heading": "How to Escape the School",
+        "paragraphs": [
+          "The school is the route the official description explains. The Cat in the Hat hunts you. Keys are hidden in backpacks in abandoned classrooms. The exit is a row of colored locks. Count the locks in your own round and hunt only the colors that are still shut.",
+          "Walk to the door first, then sweep one wing of classrooms before you cross the building. Empty bags are normal. When you find a key, take it to the matching lock if the hall is clear, because the insert holds you still. The full backpack method is on the key locations page. This page only needs you to know that the school is the key map."
+        ],
+        "links": [
+          {
+            "label": "Key locations",
+            "slug": "scream-and-run-key-locations",
+            "description": "Room order, empty bags, and the mistakes that waste a school round."
+          }
+        ]
+      },
+      {
+        "id": "escape-mines",
+        "heading": "How Mines Changes the Objective",
+        "paragraphs": [
+          "The Mines does not want keys. The chain is a pickaxe, coal fed to a furnace until the next area opens, then explosives and a lighter on the blocked exit. Do not memorize a fixed coal total. Obey the furnace prompt in your current round.",
+          "If you are underground and still thinking about backpacks, stop. Find the tool, feed the machine, then arm the exit. Thomas is the hunter players and the studio's own play-as pass name. Stay off the rails when he owns them. The Mines page has the sequence in order."
+        ],
+        "links": [
+          {
+            "label": "Mines guide",
+            "slug": "scream-and-run-mines",
+            "description": "Pickaxe, furnace, and the blast."
+          }
+        ]
+      },
+      {
+        "id": "escape-play-place",
+        "heading": "How Play Place Changes the Objective",
+        "paragraphs": [
+          "Play Place, which players also call the playground, keeps colored keys and puts a gate in the way. A screwdriver used on the panel opens that gate. The screwdriver does not have a reliable fixed spawn. Search the round, use the tool, and expect the lights to go out in at least some clears.",
+          "After the locks are reachable, the rest resembles the school: match colors to closed locks and do not insert them with Ronald on top of you. If you only remember one extra item for this map, remember the screwdriver. The Play Place guide covers the panel in more detail."
+        ],
+        "links": [
+          {
+            "label": "Play Place guide",
+            "slug": "scream-and-run-play-place",
+            "description": "Gate, tool, and the key order after it."
+          }
+        ]
+      },
+      {
+        "id": "escape-pizzeria",
+        "heading": "How Pizzeria Changes the Objective",
+        "paragraphs": [
+          "The Pizzeria does not use keys. The current objective asks you to find 3 fuses, insert them into the Power Box, and survive until 6 AM. A fuse in your hotbar is not a fuse in the box. The clock finishing does not insert anything for you. Both lines have to be done.",
+          "Doors are part of the building. The official Remote Pass says it opens and slams them. Even without planning a purchase, use the open prompt and do not stand in a slow doorway. The Pizzeria guide is the place for the box, the clock, and the cameras."
+        ],
+        "links": [
+          {
+            "label": "Pizzeria guide",
+            "slug": "scream-and-run-pizzeria",
+            "description": "Fuses, Power Box, and the 6 AM exit."
+          }
+        ]
+      },
+      {
+        "id": "controls",
+        "heading": "Controls That Matter During an Escape",
+        "paragraphs": [
+          "The official description gives the same PC list on every map. Shift runs. C crouches, and C crawls. Shift together with C slides. F toggles the flashlight. No console or phone layout is printed on the game page, so this escape guide does not invent one.",
+          "During a chase, Shift is how you buy distance and the slide is how you take a corner without a wide turn. Crouch matters in Play Place tubes and anywhere the cover is low. The flashlight helps you read a lock, a furnace, a panel, or a fuse prompt. Turn it off when hiding is the plan. None of these keys replaces the objective item."
+        ]
+      },
+      {
+        "id": "when-found",
+        "heading": "What to Do When the Hunter Finds You",
+        "paragraphs": [
+          "Break the line. A hunter who can see you does not need a special counter. Different maps use different pursuers: the Cat in the Hat in the school, Thomas in the Mines, Ronald on Play Place, animatronics in the Pizzeria, and the Grinch role in the current update. The shared answer is movement.",
+          "Slide off the straight line, take a corner, and get the beam of the flashlight off if you are trying to disappear. Do not finish an insert, a fuse, or a panel while they are in the same space. The interaction holds you. Live through the pass, then go back to the objective. Losing the item means a second walk. A death on the prompt is a longer one.",
+          "If you are in a group, a caught player can still call the color or the fuse count. The door and the box remember progress. Your team does not restart the locks that are already open."
+        ]
+      },
+      {
+        "id": "mistakes",
+        "heading": "Common Escape Mistakes",
+        "bullets": [
+          "Using the school key route on the Mines or the Pizzeria.",
+          "Ignoring a gate on Play Place while you hunt more keys.",
+          "Holding every item for one final trip.",
+          "Re-searching rooms you have already opened.",
+          "Starting an exit interaction in front of the hunter.",
+          "Reading a free-roam place as if it were the escape badge."
+        ],
+        "paragraphs": [
+          "The fix is small. Name the map, name the item on the screen, and spend that item at the exit when you have a second of quiet. The map pages exist so you do not have to keep the whole chain in your head at once."
+        ],
+        "links": [
+          {
+            "label": "Grinch update",
+            "slug": "scream-and-run-grinch-update",
+            "description": "If the place you joined is WhoVille, start there instead."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you escape in Scream And Run?",
+        "answer": "Join the escape place for your map, read the objective, find only those items, and use them at the exit. The school uses keys. The other maps change the list."
+      },
+      {
+        "question": "How do you escape the school?",
+        "answer": "Search classrooms and backpacks for colored keys and open the matching locks. Count the closed locks in your round. The exact number can change between updates."
+      },
+      {
+        "question": "Are the controls the same on every map?",
+        "answer": "The official list is the same: Shift to run, C to crouch or crawl, Shift+C to slide, and F for the flashlight."
+      },
+      {
+        "question": "What if I am on the Mines?",
+        "answer": "Stop looking for keys. Get a pickaxe, feed coal to the furnace, then use explosives and a lighter on the blocked exit."
+      },
+      {
+        "question": "What if the exit will not open?",
+        "answer": "Check the unfinished line. A Play Place gate may still be shut. A Pizzeria box may still need a fuse, or the clock may not be at 6 AM yet. A Mines furnace may still want coal."
+      }
+    ],
+    "relatedSlugs": [
+      "scream-and-run-key-locations",
+      "scream-and-run-maps",
+      "scream-and-run-mines",
+      "scream-and-run-play-place",
+      "scream-and-run-pizzeria"
+    ],
+    "lastReviewed": "2026-09-27"
+  },
+  {
+    "enabled": true,
+    "slug": "scream-and-run-pizzeria",
+    "pageType": "guide",
+    "navLabel": "Pizzeria",
+    "title": "Scream And Run Pizzeria Guide – Fuses, Exit & Escape",
+    "description": "Scream And Run Pizzeria guide: learn the fuse objective, Power Box, exit flow, doors, and practical survival tips for the Pizzeria map.",
+    "keywords": [
+      "scream and run pizzeria",
+      "scream and run pizzeria guide",
+      "scream and run pizzeria fuses",
+      "scream and run pizzeria escape"
+    ],
+    "primaryKeyword": "scream and run pizzeria",
+    "secondaryKeywords": [
+      "scream and run pizzeria guide",
+      "scream and run pizzeria fuses",
+      "scream and run pizzeria escape"
+    ],
+    "searchIntent": "Players on the Pizzeria want the fuse objective, the Power Box, the exit, and how the doors work.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "scream-and-run-maps",
+    "wordCountTarget": 1050,
+    "sourceNotes": [
+      "Places Pizzeria - Escape, Hide And Seek, and Free Roam. Badges You Escaped Pizzera and You Escaped Pizzera With No Power created 2026-09-18.",
+      "Remote Pass display description: Allows You To Open And Slam Shut The Doors On The Pizzeria Map.",
+      "Fuse count, Power Box, and 6 AM objective appear across multiple cited gameplay recordings summarized by independent writeups. Fixed fuse spawn points were not copied."
+    ],
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Pizzeria",
+      "heading": "Scream And Run Pizzeria Guide",
+      "lead": "The Scream And Run Pizzeria is not a key door. Find the fuses, insert them in the Power Box, and survive until 6 AM before the exit will let you out."
+    },
+    "sections": [
+      {
+        "id": "what-is-different",
+        "heading": "What Makes the Pizzeria Different",
+        "paragraphs": [
+          "The Pizzeria is its own building in the Scream And Run place list. You can join Pizzeria - Escape, Pizzeria - Hide And Seek, or Pizzeria - Free Roam. Escape is the round with the win. The school backpacks and the Mines furnace are not the checklist here, even if a friend describes every map as 'find the keys.'",
+          "Roblox created the escape badge on September 18, 2026. The badge name is You Escaped Pizzera, with the second i left out, and there is a matching You Escaped Pizzera With No Power. Search your inventory for that spelling if you are checking whether a clear counted.",
+          "The hunter side of the map is an animatronic building rather than the Cat in the Hat. More than one pursuer can be in the building, and the studio sells a pass named 2x Chance To Play As Bon Bon. Watch the room you are in."
+        ]
+      },
+      {
+        "id": "objective",
+        "heading": "Pizzeria Objective",
+        "paragraphs": [
+          "The current Pizzeria objective asks you to find 3 fuses, insert them into the Power Box, and survive until 6 AM. Both have to be finished. A night that hits 6 AM with fuses still in your pocket is not an escape yet, and a Power Box that is full before 6 AM still leaves you waiting on the clock.",
+          "The on-screen wording is the authority for your server. If a future update changes the number, the corner of the screen will change with it. Until you see a different number, play the three-fuse night shown on your screen.",
+          "There is no published list of permanent fuse shelves. Rounds do not agree on one desk. Search the building, pick the fuse up when the prompt says so, and treat a remembered corner as a hint rather than a promise."
+        ]
+      },
+      {
+        "id": "fuses",
+        "heading": "Finding and Using Fuses",
+        "paragraphs": [
+          "A fuse is an item you take, the way a school key is an item you take, and then it occupies you until it is spent. A fuse sits in its own hotbar slot. Picking two of them up is not the same as installing two of them. The Power Box count moves when you insert a fuse, not when it enters your inventory.",
+          "Carry what you can hold and turn toward the box when the path is quiet. Dying or getting caught can leave the fuse you were holding on the floor, which means the walk has to be done again. Do not parade a full hotbar through a room you have not checked.",
+          "If you are in a group, say whether the fuse is in your hand or in the box. Those are different facts. A teammate who thinks the count is done because someone 'found one' will stop searching too early."
+        ]
+      },
+      {
+        "id": "power-box",
+        "heading": "Power Box and Exit Flow",
+        "steps": [
+          {
+            "heading": "Read both objectives",
+            "description": "Note the fuse count and the clock as soon as the round starts. You need the box and 6 AM."
+          },
+          {
+            "heading": "Pick up a fuse",
+            "description": "Take it from the prompt. Remember that your hotbar is not the Power Box."
+          },
+          {
+            "heading": "Insert it",
+            "description": "Use the Power Box prompt and watch the count climb. The gate text counts down as the box fills."
+          },
+          {
+            "heading": "Stay alive until 6 AM",
+            "description": "When the clock finishes, the exit can open. Insert any fuse that is still in your hands before you expect the badge."
+          }
+        ],
+        "paragraphs": [
+          "The box is a wall panel beside the exit gate. The prompt is an insert action, and early in the night the gate tells you that more fuses are required. That message is your progress bar. When both the fuse line and the survive line are complete, the exit itself is a lit doorway and the badge follows.",
+          "Players who reach 6 AM at 0 of 3 still have the whole search left, with the building awake. Players who insert early and then hide have the easier second half. Front-load the fuses."
+        ]
+      },
+      {
+        "id": "doors-cameras",
+        "heading": "Doors, Cameras, and Useful Interactions",
+        "paragraphs": [
+          "Doors in the Pizzeria are objects you operate. A door has an open prompt, and it does not snap aside. The official Remote Pass, created the evening before the badges, lets you open and slam shut the doors on the Pizzeria map. Use the door prompt when you see it. The pass adds the slam control. The basic open prompt is enough to use a door.",
+          "Some nights also include a monitor you can check for cameras. A camera view is another pair of eyes, and it does not guarantee a fuse will be on the screen. If the monitor is empty, go back to walking. Do not stand on a camera while an animatronic closes the distance.",
+          "The same Shift, C, Shift+C, and F controls work here. Slide through a doorway you just opened, and do not stop in the frame. A slow door is a place you commit to, not a place you dance in."
+        ]
+      },
+      {
+        "id": "survival-tips",
+        "heading": "Pizzeria Survival Tips",
+        "bullets": [
+          "Learn the path from the first room to the Power Box before you care about every side hall.",
+          "Insert fuses early so 6 AM is a wait, not a scramble.",
+          "Call 'in the box' only after the count moves.",
+          "Treat a second animatronic callout as real until you have seen the room clear.",
+          "Keep F for the moments you need to read a prompt, not as a permanent beacon."
+        ],
+        "paragraphs": [
+          "The building is a maze the first time, and the clock does not pause while you learn it. A short free-roam look, if you can get Pizzeria - Free Roam, is worth more than a brave first escape that ends at the first wrong turn."
+        ]
+      },
+      {
+        "id": "mistakes",
+        "heading": "Common Mistakes",
+        "paragraphs": [
+          "The common loss is playing the school inside the wrong building. There is no five-key door to finish this map. The second loss is hoarding fuses. A fuse in a hotbar slot is not a fuse in the Power Box, and the gate will keep asking for more until the count moves.",
+          "The third loss is treating 6 AM as the only job. The clear counts after both lines are done, including nights that reached the clock with fuses still outstanding. Stay for the insert.",
+          "Fuse spots move enough that a memorized shelf can be empty. Search the prompt, not a memorized timestamp."
+        ],
+        "links": [
+          {
+            "label": "All Scream And Run maps",
+            "slug": "scream-and-run-maps",
+            "description": "See how the Pizzeria sits next to the school and the Mines."
+          },
+          {
+            "label": "How to escape",
+            "slug": "how-to-escape-scream-and-run",
+            "description": "The shared loop, with this map as one branch."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you escape the Scream And Run Pizzeria?",
+        "answer": "Find the fuses, insert them at the Power Box, and survive until 6 AM. The current objective is three fuses. The exit opens when both the box and the clock are done."
+      },
+      {
+        "question": "What is the Power Box?",
+        "answer": "It is the panel where fuses are inserted. The count advances on insert, not when you pick a fuse up. The gate tells you how many are still missing."
+      },
+      {
+        "question": "Do Pizzeria doors matter?",
+        "answer": "Yes. Doors have an open prompt, and the official Remote Pass says it lets you open and slam shut the doors on the Pizzeria map."
+      },
+      {
+        "question": "Why is the badge spelled Pizzera?",
+        "answer": "That is the spelling on the Roblox badge, You Escaped Pizzera. The place names use Pizzeria. Look up the badge spelling if you are checking your inventory."
+      },
+      {
+        "question": "Is the Pizzeria the same as the school?",
+        "answer": "No. The school uses keys in backpacks. The Pizzeria uses fuses, a Power Box, doors, and a clock to 6 AM."
+      }
+    ],
+    "relatedSlugs": [
+      "scream-and-run-maps",
+      "how-to-escape-scream-and-run",
+      "scream-and-run-key-locations"
+    ],
+    "lastReviewed": "2026-09-27"
+  },
+  {
+    "enabled": true,
+    "slug": "scream-and-run-play-place",
+    "pageType": "guide",
+    "navLabel": "Play Place",
+    "title": "Scream And Run Play Place Guide – Keys, Screwdriver & Exit",
+    "description": "Scream And Run Play Place guide with the screwdriver, gate panel, colored keys, exit flow, and practical tips for escaping the map.",
+    "keywords": [
+      "scream and run play place",
+      "scream and run play place guide",
+      "scream and run playground",
+      "scream and run screwdriver"
+    ],
+    "primaryKeyword": "scream and run play place",
+    "secondaryKeywords": [
+      "scream and run play place guide",
+      "scream and run playground",
+      "scream and run screwdriver"
+    ],
+    "searchIntent": "Players want the Play Place screwdriver, gate panel, colored keys, and the exit order.",
+    "priority": "P1",
+    "navVisible": false,
+    "parentSlug": "scream-and-run-maps",
+    "wordCountTarget": 1000,
+    "sourceNotes": [
+      "Badges You Escaped Play Place and You Escaped Play Place With No Power created 2026-09-11.",
+      "Places include Play Place hide and seek, Play Place free roam, and Playpen - Escape.",
+      "Screwdriver plus gate panel plus colored keys is agreed by multiple independent guides citing gameplay. A fixed screwdriver coordinate is not."
+    ],
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Play Place",
+      "heading": "Scream And Run Play Place Guide",
+      "lead": "The Scream And Run Play Place keeps the colored keys and adds a screwdriver. You use that tool on the gate panel before the exit locks are a fair search."
+    },
+    "sections": [
+      {
+        "id": "what-changes",
+        "heading": "What the Play Place Changes",
+        "paragraphs": [
+          "Play Place is the playground map inside Scream And Run. Roblox created You Escaped Play Place and You Escaped Play Place With No Power on September 11, 2026. Players also call this map Playground; the in-game badge uses Play Place. If a server is named Playpen - Escape, that is the escape place sitting next to those Play Place names.",
+          "The school teaches a door and a backpack. Play Place teaches the same door with a gate in front of it. You can do a perfect key search and still be stuck, because the locks are on the far side of a panel you have not opened. The hunter players describe here is Ronald, and the studio sells a pass called 2x Chance To Play As Ronald.",
+          "Slides, tunnels, and party rooms are the geography. They are also the reason a straight school lap fails. Low routes reward crouch on C. Long gaps reward Shift and a slide."
+        ]
+      },
+      {
+        "id": "keys-and-screwdriver",
+        "heading": "Keys and the Screwdriver",
+        "paragraphs": [
+          "Two searches run together. Colored keys still match the exit locks, in the same spirit as the school door. The screwdriver is a different item and a different prompt. Do not spend the screwdriver on a padlock, and do not spend a key on the gate panel.",
+          "The screwdriver does not have a reliable fixed spawn. Search the backpacks and interactable areas as you move through Play Place. Soft-play structures, tables, and the bags you would already open for keys are reasonable places to look, not guaranteed shelves.",
+          "Play Place often uses the same colored-key idea as the school. The exact set can change, so read the locks you can see. A key whose lock is already open is a finished job. A missing color is the only one that matters."
+        ]
+      },
+      {
+        "id": "gate-panel",
+        "heading": "Gate and Panel Interaction",
+        "paragraphs": [
+          "Find the gate before you commit to a full key route. If it blocks the locks, the screwdriver is the next item, not another backpack color. The panel is the interaction point. It uses a short timed prompt, and the lights can go out once the gate moves.",
+          "That light change is the moment players get lost. Before you use the panel, look back along the path you used to reach it. F toggles the flashlight in the official control list. Turn it on after the lights fall if you need the path, and turn it off if Ronald is close enough that the beam is a signal.",
+          "Opening the gate is not the escape, and it is not the no-power badge by itself. No Power is a separate award, You Escaped Play Place With No Power. The panel can change the lights. The badge is a finished clear. Do not treat one as proof of the other."
+        ]
+      },
+      {
+        "id": "search-route",
+        "heading": "How to Plan Your Search Route",
+        "steps": [
+          {
+            "heading": "Find the gate",
+            "description": "Locate the blocked door and the panel before you fill your hands with keys."
+          },
+          {
+            "heading": "Find the screwdriver",
+            "description": "Search the current round. There is no fixed shelf to camp."
+          },
+          {
+            "heading": "Open the panel",
+            "description": "Use the screwdriver, finish the prompt the panel gives you, and note the way back if the lights go out."
+          },
+          {
+            "heading": "Match the keys",
+            "description": "With the locks reachable, spend each color on the lock that is still closed."
+          }
+        ],
+        "paragraphs": [
+          "A good route is a loop you can repeat in the dark: search area, panel, exit, back to the next unopened bag. If the gate is already open, skip the tool and stay on colors. If the gate is shut, the tool comes first even if you are holding keys.",
+          "In a group, split the two jobs out loud. One player can say they have the screwdriver. Another can say they have a color. Those sentences should send people to different prompts."
+        ]
+      },
+      {
+        "id": "escape-flow",
+        "heading": "Escape Flow",
+        "paragraphs": [
+          "The clear is the door after the gate and the locks. Spend keys as you find them once the locks are reachable, the same way you would on the school, because holding a full set for one trip keeps you in the open longer. Confirm each lock actually opens before you hunt a duplicate color.",
+          "The insert holds you still. Do it when the immediate structure is empty. Slides and pits can break a line of sight on the way to the door. They are not a substitute for finishing the locks.",
+          "When the last lock is open, leave. Lingering for a spare key is how a finished door becomes a death. The badge you want for a normal clear is You Escaped Play Place."
+        ]
+      },
+      {
+        "id": "survival-tips",
+        "heading": "Survival Tips",
+        "bullets": [
+          "Learn the panel location before you need it with the flashlight off.",
+          "Crouch through tubes instead of sprinting into a dead end you cannot see.",
+          "Call the screwdriver and the key colors as different items.",
+          "Turn F on to read a prompt, then decide if the beam should stay on.",
+          "Do not import a Mines or Pizzeria checklist into this building."
+        ],
+        "paragraphs": [
+          "Play Place punishes players who only know the school and players who camp one remembered item spot. Follow the prompts in your current round. Follow the gate if it is closed, follow the locks if it is open, and keep moving between them."
+        ],
+        "links": [
+          {
+            "label": "Scream And Run maps",
+            "slug": "scream-and-run-maps",
+            "description": "Put Play Place next to the school and the Pizzeria."
+          },
+          {
+            "label": "How to escape",
+            "slug": "how-to-escape-scream-and-run",
+            "description": "The map check to run before you search."
+          },
+          {
+            "label": "Key locations",
+            "slug": "scream-and-run-key-locations",
+            "description": "The school version of the color search."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the screwdriver for in Play Place?",
+        "answer": "You use it on the gate panel that blocks the exit locks. Colored keys are for those locks, not for the panel."
+      },
+      {
+        "question": "Where does the screwdriver spawn?",
+        "answer": "A fixed spawn is not established. Search the round you are in, including the backpacks and play structures, and use the tool when the panel prompt appears."
+      },
+      {
+        "question": "Is Play Place the same as the playground?",
+        "answer": "Players also call this map Playground. The official badge name is Play Place. An escape place in the experience is also titled Playpen - Escape."
+      },
+      {
+        "question": "Does the gate panel grant the no-power badge?",
+        "answer": "No. The lights may go out when the gate opens. You Escaped Play Place With No Power is a separate finished clear."
+      },
+      {
+        "question": "Do you still need keys?",
+        "answer": "Yes. After the gate is open, colored keys match the exit locks. Check which locks are still closed instead of assuming a color you already used."
+      }
+    ],
+    "relatedSlugs": [
+      "scream-and-run-maps",
+      "how-to-escape-scream-and-run",
+      "scream-and-run-key-locations"
+    ],
+    "lastReviewed": "2026-09-27"
+  },
+  {
+    "enabled": true,
+    "slug": "scream-and-run-mines",
+    "pageType": "guide",
+    "navLabel": "Mines",
+    "title": "Scream And Run Mines Guide – Coal, Furnace & Escape",
+    "description": "Scream And Run Mines guide: learn the pickaxe, coal, furnace, explosives and escape sequence without confusing it with the School key hunt.",
+    "keywords": [
+      "scream and run mines",
+      "scream and run mines guide",
+      "scream and run mines escape",
+      "scream and run coal furnace"
+    ],
+    "primaryKeyword": "scream and run mines",
+    "secondaryKeywords": [
+      "scream and run mines guide",
+      "scream and run mines escape",
+      "scream and run coal furnace"
+    ],
+    "searchIntent": "Players on the Mines want the pickaxe, coal, furnace, and explosive escape, not the school key route.",
+    "priority": "P1",
+    "navVisible": false,
+    "parentSlug": "scream-and-run-maps",
+    "wordCountTarget": 1000,
+    "sourceNotes": [
+      "Badges You Escaped Mines created 2026-09-03 and You Escaped Mines With No Power created 2026-09-04.",
+      "Places Mines - Escape and Mines - Hide And Seek.",
+      "Pickaxe, coal, furnace, explosives, and lighter agree across multiple guides and cited recordings. Coal quantity conflicts between recordings and is omitted. Thomas is the playable role sold by the studio and the hunter named in independent guides."
+    ],
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Mines",
+      "heading": "Scream And Run Mines Guide",
+      "lead": "The Scream And Run Mines guide is a different objective from the school. You need a pickaxe, coal for the furnace, then explosives and a lighter. You do not need five keys."
+    },
+    "sections": [
+      {
+        "id": "why-different",
+        "heading": "Why the Mines Play Differently",
+        "paragraphs": [
+          "The Mines is the map that breaks the school habit. You Escaped Mines was created on September 3, 2026, and You Escaped Mines With No Power was created the next day. The place list includes Mines - Escape and Mines - Hide And Seek. Escape is the round with the exit sequence. If you load it and start opening imaginary backpacks, you will not find the door the school trained you to expect.",
+          "The space is tunnels and rails rather than classrooms. There is a second stretch of the map beyond the first furnace gate, which is already a difference from the single school building. The hunter in player runs is a train figure, and Scream And Run Studios sells a pass named 2x Chance To Play As Thomas. Give the tunnels more room than you would give a school hallway. He is large, and the corners are the cover.",
+          "A separate No Power badge exists for the Mines. It is another clear of the same map, not a way to skip the furnace."
+        ]
+      },
+      {
+        "id": "pickaxe-coal",
+        "heading": "Pickaxe and Coal",
+        "paragraphs": [
+          "The first tool is a pickaxe. Without it, the coal in the tunnels is scenery. Pick the tool up when you find it and keep it until the seams are done. The pickaxe does not have a reliable fixed spot. Search the tunnels you spawned in instead of camping one desk.",
+          "Coal is what the pickaxe is for. Mine the seams you can reach and carry the pieces to the furnace. You are not collecting a key ring. You are feeding a machine. If your hands are empty and the furnace prompt will not take anything, you are missing the pickaxe or you have not mined yet.",
+          "Do not memorize a fixed coal total. Keep feeding the furnace until the route opens in your current round. The amount can change with the door you feed. If it still wants coal, mine more. If the gate ahead opens, stop counting and move."
+        ]
+      },
+      {
+        "id": "furnace",
+        "heading": "Furnace Objective",
+        "paragraphs": [
+          "The furnace is the middle of the Scream And Run Mines escape. You bring it coal until it accepts the route forward. Players narrating clears describe that delivery as the thing that opens the next area, not as a side task you can skip once you have seen an explosive.",
+          "Make the walk from the seam to the furnace a route you can repeat under pressure. Shift covers the straight tunnel. Shift+C is the slide when the rail line is open and Thomas is the reason you do not want to stay on it. C is for the low gaps off the main line.",
+          "If the furnace refuses a piece, you are at the wrong prompt or the quota you can see is already satisfied. Read the interaction. A second furnace or a second door can exist in a round. Follow the one that answers, and do not invent a second quota the screen is not asking for."
+        ]
+      },
+      {
+        "id": "explosives",
+        "heading": "Explosives and the Exit Sequence",
+        "steps": [
+          {
+            "heading": "Get the pickaxe",
+            "description": "The coal does not mine itself. Find the tool before you wander the whole shaft."
+          },
+          {
+            "heading": "Feed the furnace",
+            "description": "Mine coal and deliver it until the next area opens. Stop when the route opens, not when a remembered number is reached."
+          },
+          {
+            "heading": "Collect the charges and the lighter",
+            "description": "The exit sequence uses explosives and a lighter. Pick up what the prompts name."
+          },
+          {
+            "heading": "Clear the blockage",
+            "description": "Place the charges at the blocked exit and light them. The way out is past that blast, not back at the school door."
+          }
+        ],
+        "paragraphs": [
+          "Several walkthroughs describe a set of charges and a lighter at the rock blocking the exit, under the way out. The exact count is less stable than the order, so place what the prompt will accept and light them when they are set. A lighter with no charges, or charges with no lighter, is an unfinished step.",
+          "The blast is the escape action. Stand where the tunnel gives you a path away from the blockage and away from Thomas, then commit. After it opens, leave. There is no key to insert on the other side of a Mines clear."
+        ]
+      },
+      {
+        "id": "navigate",
+        "heading": "How to Navigate the Mines",
+        "paragraphs": [
+          "Use the rails as a landmark, not as a safe lane. They tell you the long direction of the map, and they are also the line a train hunter can own. Step off them when you hear him, and use the side pockets to break sight. Come back to the rail when you need to reorient toward the furnace or the exit sign.",
+          "The map has a front and a back. The furnace is the door between them. If you are still in the first stretch, explosives are not the search yet. If the furnace has opened the second stretch, coal is no longer the main job unless a prompt sends you back.",
+          "Flashlight on F is how you read a seam and a charge prompt in the dark. It is also how you draw a line to yourself. Toggle it for the interaction, then decide. The official control list has no other light switch."
+        ]
+      },
+      {
+        "id": "survival-tips",
+        "heading": "Survival Tips",
+        "bullets": [
+          "Say 'furnace' or 'charges' to your team, not 'keys.'",
+          "Mine, deliver, then move on. Do not stockpile coal after the gate opens.",
+          "Keep the lighter and the charges as a pair.",
+          "Leave the rails when Thomas is on them.",
+          "Ignore backpack advice from the school page while this objective is on screen."
+        ],
+        "paragraphs": [
+          "The Mines feels longer because the objective is a chain. Skipping a link does not speed it up. Players who treat it as a key hunt search the wrong containers for the entire round and never touch the furnace that was twenty steps from spawn."
+        ],
+        "links": [
+          {
+            "label": "Scream And Run maps",
+            "slug": "scream-and-run-maps",
+            "description": "Compare the Mines with the school and the Pizzeria."
+          },
+          {
+            "label": "How to escape",
+            "slug": "how-to-escape-scream-and-run",
+            "description": "Confirm you are on the Mines before you search."
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do you escape the Scream And Run Mines?",
+        "answer": "Find a pickaxe, mine coal, feed the furnace until the next area opens, then use explosives and a lighter on the blocked exit."
+      },
+      {
+        "question": "Do the Mines use five keys?",
+        "answer": "No. The school uses keys. The Mines uses the pickaxe, coal, furnace, and explosive sequence. Searching for padlocks here wastes the round."
+      },
+      {
+        "question": "How much coal does the furnace need?",
+        "answer": "Do not memorize a fixed coal total. Keep feeding the furnace until the route opens in your current round."
+      },
+      {
+        "question": "Who chases you in the Mines?",
+        "answer": "Players describe a train hunter, and the studio sells a pass to play as Thomas. Give the rails room and use side tunnels to break sight."
+      },
+      {
+        "question": "What is the Mines no-power badge?",
+        "answer": "You Escaped Mines With No Power is a separate badge created on September 4, 2026. It is a different clear, not a skip for the furnace."
+      }
+    ],
+    "relatedSlugs": [
+      "scream-and-run-maps",
+      "how-to-escape-scream-and-run",
+      "scream-and-run-key-locations"
+    ],
+    "lastReviewed": "2026-09-27"
+  }
+]

@@ -1,0 +1,277 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Scream And Run Wiki & Guide – Maps, Keys & Escape Tips",
+  "description": "Scream And Run wiki and guide for Roblox: maps, key locations, escape tips, Pizzeria, Play Place, Mines, and the latest Grinch update.",
+  "keywords": [
+    "Scream And Run",
+    "scream and run wiki",
+    "scream and run guide",
+    "scream and run roblox",
+    "scream and run maps",
+    "scream and run grinch update"
+  ],
+  "primaryKeyword": "Scream And Run",
+  "secondaryKeywords": [
+    "scream and run wiki",
+    "scream and run guide",
+    "scream and run roblox",
+    "scream and run maps",
+    "scream and run grinch update"
+  ],
+  "searchIntent": "Players want a current Scream And Run wiki and guide: what the game is, which map they are on, and where to start.",
+  "priority": "P0",
+  "navVisible": true,
+  "wordCountTarget": 1650,
+  "sourceNotes": [
+    "Roblox games API universe 10761687472 checked 2026-09-27: title, description, creator, genre, created and updated timestamps.",
+    "Roblox badges, places, virtual events, and game passes for universe 10761687472 checked 2026-09-27.",
+    "Map objectives cross-checked against separate player guides and recorded runs. Conflicting counts were left out."
+  ],
+  "factsStatus": "verified",
+  "hero": {
+    "eyebrow": "Roblox survival guide",
+    "heading": "Scream And Run Wiki & Guide",
+    "lead": "Scream And Run is a free Roblox survival escape game from Scream And Run Studios. This wiki and guide covers the school key locations, the Mines, Play Place, the Pizzeria, and the Grinch update now showing on the official page.",
+    "supportingText": "Start with the map you loaded. The school still uses keys. The later maps do not all work that way.",
+    "primaryLink": {
+      "label": "Grinch update",
+      "slug": "scream-and-run-grinch-update"
+    },
+    "secondaryLink": {
+      "label": "Open official game page",
+      "url": "https://www.roblox.com/games/113481077323469/Scream-And-Run"
+    }
+  },
+  "sections": [
+    {
+      "id": "grinch-update",
+      "heading": "Latest Scream And Run Grinch Update",
+      "intro": "The official Roblox experience is titled Scream And Run [GRINCH UPD]. That title is the fastest way to tell you loaded the current build.",
+      "paragraphs": [
+        "The studio is hosting a public Roblox event called The Grinch And New Map. The event window is September 25 through September 30, 2026. The same universe already lists WhoVille - Escape, WhoVille - Hide And Seek, and WhoVille - FreeRoam. Two escape badges, You Escaped WhoVille and You Escaped WhoVille With No Power, were created on September 23, 2026.",
+        "The written description on the game page has not been rewritten around the new map. It still explains the school: you are inside after dark, the Cat in the Hat is hunting, and hidden keys in classrooms and backpacks open the exit. Use that paragraph for the school. Use the event, the WhoVille places, and the new badges when you are looking for the update.",
+        "A pass named 2x Chance To Play As The Grinch was created on September 23, 2026. A Throwable Snowball pass from the day before says it can freeze a monster or a player. Those are store items, not a route. Inside a WhoVille round, follow the objective text on your screen. This guide reflects the current September 2026 build and may change after future updates."
+      ],
+      "links": [
+        {
+          "label": "Scream And Run Grinch update",
+          "slug": "scream-and-run-grinch-update",
+          "description": "Event dates, WhoVille, and what the current title confirms."
+        }
+      ]
+    },
+    {
+      "id": "what-is-scream-and-run",
+      "heading": "What Is Scream And Run?",
+      "paragraphs": [
+        "Scream And Run is a Survival game on Roblox, with Escape as the subgenre. The studio created the universe on August 25, 2026. A server holds up to 50 players, and the experience is free to join. The official description lists three modes: Hide And Seek, Free Roam, and Escape.",
+        "Escape is the mode with a finish line. Hide And Seek and Free Roam are separate places, which is why one map can appear more than once in the place list. You do not pick a winner from a menu of rewards. You either complete the objective on the map you loaded, or the hunter catches you first.",
+        "The school is the scene the description still teaches. Later maps keep the same pressure, a hunter in a dark building, and change the shopping list. If you learn only the school door, the Mines and the Pizzeria will feel broken. They are not using that door."
+      ]
+    },
+    {
+      "id": "maps",
+      "heading": "Scream And Run Maps",
+      "intro": "Five named routes matter for players right now. Each one has its own escape badge, and most of them also have Hide And Seek and Free Roam places.",
+      "paragraphs": [
+        "Learn the objective before you learn the floor plan. A room that is useful on one map is a waste of time on the next, because the exit is listening for different items."
+      ],
+      "subsections": [
+        {
+          "heading": "School",
+          "paragraphs": [
+            "The school is the launch map. Search abandoned classrooms and backpacks for hidden keys while the Cat in the Hat hunts. The exit uses colored locks: look at which locks are still shut, then search for those colors. Take a found key back to its lock instead of saving every key for one trip."
+          ]
+        },
+        {
+          "heading": "Mines",
+          "paragraphs": [
+            "The Mines is not a key hunt. The places include Mines - Escape and Mines - Hide And Seek, and You Escaped Mines was created on September 3, 2026. Start with a pickaxe, mine coal, feed a furnace until the next stretch opens, then use explosives and a lighter on the blocked exit. The studio also sells a pass to play as Thomas."
+          ]
+        },
+        {
+          "heading": "Play Place",
+          "paragraphs": [
+            "You Escaped Play Place and the no-power badge were created on September 11, 2026. Players also call this map Playground; the in-game badge uses Play Place. The extra step is a screwdriver used on the gate panel, then colored keys for the exit locks. A closed gate can leave you holding keys you cannot spend yet. The studio sells a pass to play as Ronald."
+          ]
+        },
+        {
+          "heading": "Pizzeria",
+          "paragraphs": [
+            "Pizzeria places cover Escape, Hide And Seek, and Free Roam. The escape badge is spelled You Escaped Pizzera and was created on September 18, 2026. The current objective asks you to find three fuses, insert them at the Power Box, and survive until 6 AM. The Remote Pass lets you open and slam doors on the Pizzeria map."
+          ]
+        },
+        {
+          "heading": "WhoVille",
+          "paragraphs": [
+            "WhoVille is the newest named map in the public place list. It has Escape, Hide And Seek, and Free Roam places, plus both escape badges from September 23. It sits in the same week as The Grinch And New Map. Do not search it for school backpacks. Open the update guide, then read the objective in the round you actually joined."
+          ]
+        }
+      ],
+      "table": {
+        "caption": "Maps at a glance",
+        "columns": ["Map", "Main objective", "What you use", "Guide"],
+        "rows": [
+          ["School", "Open the exit locks", "Colored keys from backpacks", "Key locations"],
+          ["Mines", "Open the blocked exit", "Pickaxe, coal, furnace, explosives", "Mines"],
+          ["Play Place", "Open the gate, then the locks", "Screwdriver and colored keys", "Play Place"],
+          ["Pizzeria", "Power the exit and last until 6 AM", "Fuses and the Power Box", "Pizzeria"],
+          ["WhoVille", "Follow the current on-screen objective", "Newest map in the Grinch update", "Grinch update"]
+        ]
+      },
+      "links": [
+        {
+          "label": "Scream And Run maps",
+          "slug": "scream-and-run-maps",
+          "description": "Compare objectives before you queue."
+        },
+        {
+          "label": "Mines guide",
+          "slug": "scream-and-run-mines",
+          "description": "Coal, furnace, and the explosive exit."
+        },
+        {
+          "label": "Play Place guide",
+          "slug": "scream-and-run-play-place",
+          "description": "Screwdriver, gate panel, and keys."
+        },
+        {
+          "label": "Pizzeria guide",
+          "slug": "scream-and-run-pizzeria",
+          "description": "Fuses, Power Box, and the 6 AM clock."
+        },
+        {
+          "label": "Grinch update",
+          "slug": "scream-and-run-grinch-update",
+          "description": "WhoVille and the live event."
+        }
+      ]
+    },
+    {
+      "id": "key-locations",
+      "heading": "Scream And Run Key Locations",
+      "paragraphs": [
+        "Key locations is a school question. The official description points at abandoned classrooms and backpacks, then at the exit those keys unlock. A clean round starts at the door so you can see which locks are still closed. After that, clear rooms you have not opened. An empty backpack is normal. The time you lose is the second lap through a wing you already finished.",
+        "When a bag gives you a key, spend it. Colored locks accept the matching key. Count the locks in your own round, because carrying a key through the hunter is the dangerous part, not the search itself. In a group, anyone can walk a key to the door. Say the color out loud and go.",
+        "That search stops being useful the moment the map changes. The Mines wants a pickaxe and coal. The Pizzeria wants fuses in a Power Box. Play Place still has colored keys, but the screwdriver and the gate come first if the locks are blocked. WhoVille belongs to the current update. If you cannot see backpacks or padlocks, stop hunting keys and read the objective."
+      ],
+      "links": [
+        {
+          "label": "Scream And Run key locations",
+          "slug": "scream-and-run-key-locations",
+          "description": "Room order, backpacks, and what to do after you find a key."
+        }
+      ]
+    },
+    {
+      "id": "how-to-escape",
+      "heading": "How to Escape in Scream And Run",
+      "paragraphs": [
+        "How to escape depends on the name of the place you joined. Escape mode is the one with a win. Read the objective before you sprint, search only for the items that objective names, and spend them at the exit when you have a quiet second. Standing in the open to finish an interaction is how a lot of rounds end one step early.",
+        "The school spends keys on locks. The Mines feeds a furnace and then clears a blocked exit. Play Place opens a gate before the keys matter. The Pizzeria inserts fuses and also has to stay alive until 6 AM. WhoVille is the new map inside the Grinch event, so its checklist is whatever the round prints, not the school door.",
+        "The movement is shared even when the objective is not. Shift runs, C crouches or crawls, Shift and C together slides, and F toggles the flashlight. Use the slide to take a corner, and turn the light off if you are trying to be missed. None of those inputs inserts a key or a fuse for you."
+      ],
+      "links": [
+        {
+          "label": "How to escape in Scream And Run",
+          "slug": "how-to-escape-scream-and-run",
+          "description": "One workflow, then the branch for each map."
+        }
+      ]
+    },
+    {
+      "id": "controls",
+      "heading": "Controls You Should Know",
+      "intro": "The official description lists five PC actions. Use those keyboard inputs. Controller and phone layouts are not part of that list.",
+      "paragraphs": [
+        "Run is Shift. Crouch is C. Crawl is also C. Slide is Shift plus C. Flashlight is F. Learn them before the first classroom, because the hunter does not wait while you test keys.",
+        "Run covers the long halls. Slide is the burst you use when a corner is closer than a hiding spot. Crouch or crawl where the ceiling or the furniture is low. The flashlight is a toggle: on when you need to read a bag, a lock, or a panel, and off when you would rather not announce where you are standing. The objective still has to be finished in the light or in the dark."
+      ],
+      "table": {
+        "caption": "Controls from the official description",
+        "columns": ["Action", "Control"],
+        "rows": [
+          ["Run", "Shift"],
+          ["Crouch", "C"],
+          ["Crawl", "C"],
+          ["Slide", "Shift + C"],
+          ["Flashlight", "F"]
+        ]
+      }
+    },
+    {
+      "id": "start-here",
+      "heading": "Start With These Guides",
+      "paragraphs": [
+        "Pick the page that matches the round you are in. If the title on Roblox says GRINCH UPD and you want the new map, start with the update guide. If you are in the school and the door is a row of locks, start with key locations. If you already know the map name, open that map. The escape guide is the short version when you only know that you need to leave."
+      ],
+      "links": [
+        {
+          "label": "Grinch Update",
+          "slug": "scream-and-run-grinch-update",
+          "description": "Live event, WhoVille, and the current title."
+        },
+        {
+          "label": "Key Locations",
+          "slug": "scream-and-run-key-locations",
+          "description": "School backpack search and the locks on the exit."
+        },
+        {
+          "label": "Maps",
+          "slug": "scream-and-run-maps",
+          "description": "Which objective belongs to which map."
+        },
+        {
+          "label": "Escape Guide",
+          "slug": "how-to-escape-scream-and-run",
+          "description": "The shared workflow and the map branches."
+        },
+        {
+          "label": "Pizzeria",
+          "slug": "scream-and-run-pizzeria",
+          "description": "Fuses, doors, and the clock."
+        },
+        {
+          "label": "Play Place",
+          "slug": "scream-and-run-play-place",
+          "description": "Gate panel, screwdriver, and keys."
+        },
+        {
+          "label": "Mines",
+          "slug": "scream-and-run-mines",
+          "description": "Pickaxe through the explosive exit."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Scream And Run?",
+      "answer": "Scream And Run is a free Roblox survival escape game by Scream And Run Studios. The official description puts you in a school after dark, hunted by the Cat in the Hat, searching backpacks for the keys that open the exit. Later maps change that objective."
+    },
+    {
+      "question": "What is the Scream And Run Grinch update?",
+      "answer": "The live Roblox title is Scream And Run [GRINCH UPD]. A public event, The Grinch And New Map, runs September 25 through September 30, 2026. WhoVille escape places and badges are already on the experience, along with a pass to play as the Grinch."
+    },
+    {
+      "question": "How many Scream And Run maps are there?",
+      "answer": "The player routes covered here are the School, the Mines, Play Place, the Pizzeria, and WhoVille. Each has an escape badge. The universe list also contains other place names that are not part of these guides."
+    },
+    {
+      "question": "Where are the keys in Scream And Run?",
+      "answer": "On the school, keys are hidden in backpacks in abandoned classrooms. Match a key to a lock that is still closed. The Mines and the Pizzeria do not use that key hunt, and Play Place adds a screwdriver and a gate."
+    },
+    {
+      "question": "How do you escape in Scream And Run?",
+      "answer": "Join Escape mode, read the objective for that map, and spend the required items at the exit. School locks take colored keys. The Mines uses coal and explosives. Play Place opens a gate first. The Pizzeria uses fuses and a clock to 6 AM."
+    },
+    {
+      "question": "What are the Scream And Run controls?",
+      "answer": "The official description lists Run on Shift, Crouch on C, Crawl on C, Slide on Shift+C, and Flashlight on F. No console or mobile layout is printed there."
+    }
+  ],
+  "screenshots": [],
+  "lastReviewed": "2026-09-27"
+}

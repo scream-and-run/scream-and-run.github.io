@@ -1,0 +1,76 @@
+{
+  "readyForLaunch": true,
+  "siteName": "Scream And Run Wiki & Guide",
+  "shortName": "Scream And Run",
+  "description": "Scream And Run wiki and guide for Roblox: maps, key locations, escape tips, and the latest Grinch update.",
+  "language": "en",
+  "locale": "en_US",
+  "authorName": "Editorial Team",
+  "theme": {
+    "preset": "obsidian-red",
+    "overrides": {
+      "background": "0 0% 96%",
+      "foreground": "0 0% 7%",
+      "card": "0 0% 100%",
+      "card-foreground": "0 0% 7%",
+      "primary": "356 85% 57%",
+      "primary-foreground": "0 0% 0%",
+      "secondary": "0 0% 89%",
+      "muted": "0 0% 91%",
+      "muted-foreground": "0 0% 7%",
+      "border": "0 0% 80%",
+      "radius": ".45rem",
+      "card-shadow": "0 14px 36px rgba(15, 18, 24, .08)",
+      "hero-gradient": "linear-gradient(90deg, hsl(356 85% 57% / .16), transparent 46%)",
+      "background-pattern": "none",
+      "font-sans": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "font-heading": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "heading-weight": "700",
+      "heading-letter-spacing": "-0.02em"
+    },
+    "skin": "editorial",
+    "headerStyle": "solid",
+    "componentStyle": "rounded",
+    "appearanceVersion": 2,
+    "appearanceMode": "fixed-template",
+    "templateVersion": 1,
+    "accentColorId": "default",
+    "colorMode": "custom",
+    "background": "#F6F6F6",
+    "accent": "#EF3340",
+    "fontId": "source-sans"
+  },
+  "hosting": {
+    "siteUrl": "https://scream-and-run.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "contact": {
+    "email": "support@scream-and-run.com",
+    "url": null
+  },
+  "repositoryUrl": "https://github.com/scream-and-run/scream-and-run.github.io",
+  "allowedExternalDomains": [
+    "www.roblox.com",
+    "github.com"
+  ],
+  "assets": {
+    "logo": "/images/scream-and-run-logo.webp",
+    "cover": "/images/scream-and-run-cover.webp",
+    "openGraph": "/images/scream-and-run-og.svg",
+    "favicon": "/images/scream-and-run-logo.webp"
+  },
+  "game": {
+    "name": "Scream And Run",
+    "platform": "Roblox",
+    "developer": "Scream And Run Studios",
+    "genre": "Survival",
+    "officialUrl": "https://www.roblox.com/games/113481077323469/Scream-And-Run"
+  },
+  "seo": {
+    "titleTemplate": "%s",
+    "defaultKeywords": [
+      "Scream And Run"
+    ]
+  }
+}
